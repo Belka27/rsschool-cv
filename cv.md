@@ -1,0 +1,16 @@
+# Iryna Viarheichyk
+--------
+## Contact information:
+
+*     Phone: +375291883210
+*     E-mail: belka27@gmail.com
+*     Telegram: @beeelka27
+*     Discord: @Belka27
+
+## About Myself:
+I am highly motivated, intellectually developed and creative person, able to quickly adapt to the situation and find a creative solution to the problem. I have a variety of interests.  I like to learn new things and I am really into reading. My main interest is creativity. 
+## Languages:
++    Russian - native
++    English - B1
++    German - A2
+### Projects:
