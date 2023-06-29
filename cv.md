@@ -16,3 +16,4 @@ I am highly motivated, intellectually developed and creative person, able to qui
 +    English - B1
 +    German - A2
 ### Projects:
+[CV][https://github.com/Belka27/rsschool-cv/tree/gh-pages]
