@@ -1,4 +1,6 @@
 # Iryna Viarheichyk
+![я](https://sun9-40.userapi.com/impg/OCjtyMnAd0c3Ld4NunW3QLZOnBBRVaRltBAYpw/-lg5UmIEr38.jpg?size=864x1080&quality=96&sign=0c2739f60f36aed695618322c27e9da5&type=album)
+
 --------
 ## Contact information:
 
