@@ -1,7 +1,37 @@
 h2 {
     color: orange;
 }
-
+body {
+    max-width: 1024px;
+    min-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: cornsilk;
+    font-size: larger;
+}
 .cv {
     text-align: center;
+    column-count: 2;
+    border-style: dotted;
+    border-color: coral;
+    border-width: thin;
+    }
+.contacts {
+    text-align: left;
+}
+.about {
+    text-align: left;
+}
+
+.date {
+    position: relative;
+    right: 300px;
+    bottom: -45px;
+    font-size: 30px;
+}
+.git {
+    position: relative;
+    left: 200px;
+    bottom: 55px;
+    font-size: 30px;
 }
